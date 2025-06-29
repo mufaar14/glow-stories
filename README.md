@@ -12,4 +12,4 @@ Project UAS Web Lanjut: Aplikasi E-Commerce Sederhana (Laravel + Filament Admin)
 
 ## Developer
 Muhammad Fadilah Ariyanto  
-Universitas Bina Insani, 2023  
+Universitas Bina Insani, 2025  
